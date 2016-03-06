@@ -10,6 +10,7 @@ namespace TP_Lab_1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
